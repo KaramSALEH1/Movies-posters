@@ -1,4 +1,5 @@
 // My API : "c528a6c3541777eb32f82f02dd1ede87"
+//MAKE SURE THAT YOU USE YOUR'S IF YOU WANT TO USE THE API
 
 const APILINK = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=c528a6c3541777eb32f82f02dd1ede87&page=1';
 const IMG_PATH ='https://image.tmdb.org/t/p/w1280';
